@@ -9,7 +9,7 @@ audio = sr.Recognizer()
 maquina = pyttsx3.init()
 
 
-# Função para fechar a aba pelo título
+
 
 
 def executa_comando() :
